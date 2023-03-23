@@ -1,0 +1,1 @@
+esta esxtensão tira a barra de rolagem da coluna lateral esquerda do twitter. agora você tem mais espaço para resenhar nas internets

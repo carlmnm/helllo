@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Hide Twitter Scrollbar",
+    "version": "1.0",
+    "content_scripts": [
+        {
+            "matches": ["https://twitter.com/*"],
+            "js": ["hideTwitterScrollbar.js"]
+        }
+    ]
+}
