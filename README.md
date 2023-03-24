@@ -1,12 +1,4 @@
-<style>
-  body {
-    font-family: "Comic Sans MS", cursive, sans-serif;
-  }
-</style>
-
-# Nome do Projeto :rocket:
-
-## Helllo :rocket:
+# Helllo :rocket:
 
 Esta extensão tira a barra de rolagem do menu da parte esquerda do twitter.
 
