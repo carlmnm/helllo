@@ -1,31 +1,42 @@
-// esta esxtensão tira a barra de rolagem da coluna lateral esquerda do twitter. agora você tem mais espaço para resenhar nas internets
+    <h1>Nome do Projeto 🚀</h1>
 
-Helllo 🚀
-[Incluir uma breve descrição do projeto 📝]
+    <p>[Incluir uma breve descrição do projeto 📝]</p>
 
-Índice 📋
-Instalação 💻
-Como usar 🤔
-Contribuindo 🤝
-Licença 📝
-Créditos 👏
-Contato 📞
-Instalação 💻
-[Incluir instruções sobre como instalar o projeto 🛠️]
+    <h2>Índice 📋</h2>
 
-Como usar 🤔
-[Incluir instruções sobre como usar o projeto 📚]
+    <ul>
+        <li><a href="#instalacao">Instalação 💻</a></li>
+        <li><a href="#como-usar">Como usar 🤔</a></li>
+        <li><a href="#contribuindo">Contribuindo 🤝</a></li>
+        <li><a href="#licenca">Licença 📝</a></li>
+        <li><a href="#creditos">Créditos 👏</a></li>
+        <li><a href="#contato">Contato 📞</a></li>
+    </ul>
 
-Contribuindo 🤝
-[Incluir instruções sobre como contribuir para o projeto, como enviar solicitações de pull e informações sobre o processo de revisão 🚀]
+    <h2 id="instalacao">Instalação 💻</h2>
 
-Licença 📝
-[Incluir informações sobre a licença do projeto e quaisquer outras informações legais relevantes 📖]
+    <p>[Incluir instruções sobre como instalar o projeto 🛠️]</p>
 
-Créditos 👏
-[Incluir créditos para quaisquer recursos ou bibliotecas de terceiros usados no projeto 🤝]
+    <h2 id="como-usar">Como usar 🤔</h2>
 
-Contato 📞
-[Incluir informações de contato para a equipe do projeto, como endereço de e-mail ou link para o canal do Slack 📧]
+    <p>[Incluir instruções sobre como usar o projeto 📚]</p>
 
-Espero que esta nova versão do README, com emojis e gifs, tenha tornado o seu projeto um pouco mais descontraído! 🎉
+    <h2 id="contribuindo">Contribuindo 🤝</h2>
+
+    <p>[Incluir instruções sobre como contribuir para o projeto, como enviar solicitações de pull e informações sobre o processo de revisão 🚀]</p>
+
+    <h2 id="licenca">Licença 📝</h2>
+
+    <p>[Incluir informações sobre a licença do projeto e quaisquer outras informações legais relevantes 📖]</p>
+
+    <h2 id="creditos">Créditos 👏</h2>
+
+    <p>[Incluir créditos para quaisquer recursos ou bibliotecas de terceiros usados no projeto 🤝]</p>
+
+    <h2 id="contato">Contato 📞</h2>
+
+    <p>[Incluir informações de contato para a equipe do projeto, como endereço de e-mail ou link para o canal do Slack 📧]</p>
+
+    <img src="https://media.giphy.com/media/3o7WIPxQzPhd0G9JF6/giphy.gif" alt="Gif">
+
+    <p>Espero que esta nova versão do README, com um gif incluído, torne o seu projeto ainda mais divertido! 🎉</p>
